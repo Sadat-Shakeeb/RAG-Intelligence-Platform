@@ -1,9 +1,3 @@
-Below is a **professional, industry-grade `README.md`** tailored to your project. It is structured to impress recruiters, clearly communicate architecture, and reflect real-world engineering maturity.
-
-You can copy this directly into your repo.
-
----
-
 ```markdown
 # 🚀 AstraRAG – Agentic Retrieval-Augmented Generation Platform
 
