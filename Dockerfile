@@ -23,7 +23,6 @@ RUN chmod +x start.sh
 EXPOSE 8000 8501
 
 # Set environment variables (can be overridden at runtime)
-
 ENV DOCUMENTS_DIR="/app/docs_dir"
 ENV VECTOR_STORE_DIR="/app/doc_vector_store"
 ENV COLLECTION_NAME="document_collection"
