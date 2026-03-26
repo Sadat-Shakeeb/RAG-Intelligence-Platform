@@ -1,4 +1,3 @@
-```markdown
 # 🚀 AstraRAG – Agentic Retrieval-Augmented Generation Platform
 
 ## 📌 Problem Statement
